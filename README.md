@@ -70,5 +70,25 @@ Overall Status: HEALTHY
 
 ## Author
 Shoaib Mangalgiri
+## Project Screenshots
+
+### 1. EC2 Instance Running
+![EC2 Instance Running](01-EC2-Instance-Running.jpeg)
+
+### 2. SSH Connection to Amazon Linux
+![SSH Connection](02-SSH-Connection-Amazon-Linux.jpeg)
+
+### 3. EC2 Project Directory
+![EC2 Project Directory](03-EC2-Project-Directory.jpeg)
+
+### 4. Python Health Script
+![Python Health Script](04-Python-Health-Script-Creation.jpeg)
+
+### 5. Health Report Execution
+![Health Report Execution](05-Health-Report-Execution.jpeg)
+
+### 6. Generated Health Report
+![Generated Health Report](06-Generated-Health-Report.jpeg)
+
 
 [GitHub Profile](https://github.com/shoaib492)
